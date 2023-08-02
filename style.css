@@ -1,0 +1,27 @@
+body{
+    background-color: blue;
+    background-size: cover;
+}
+
+img{
+  
+}
+.first{
+    
+    position: relative;
+    top: 40px;
+    left: 7%;
+    border: 10px solid black;
+}
+.sec{
+    position: relative;
+    top: 100px;
+    left: 7%;
+    border: 10px solid rgb(0, 0, 0);
+}
+.third{
+    position: relative;
+    left: 33%;
+    top: -29.2rem;
+    border: 8px solid rgb(255, 0, 0);
+}
